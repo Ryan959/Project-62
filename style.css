@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+#line{
+    height: 5px;
+    width: 125px;
+    background-color: black;
+}
+
+#myCarousel img{
+    height: 220px;
+    width: 220px;
+    margin-top: 20px;
+}
+
+#myCarousel{
+    background-color: red;
+}
